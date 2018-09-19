@@ -16,7 +16,7 @@ Both were fine examples of the review form. I encourage everyone to read through
 
 Not only that, he's worked tirelessly to ensure that we don't lose this knowledge in the future by documenting his findings and sharing the source code.
 
-A huge problem for the `Emperor's Hammer` over basically it's entire life has been the loss of resources and knowledge to technical failures, schisms and personnel attrition. How many times did we lose the database/forums/email/domain/etc? Where could we be if we'd been able to add to existing foundations instead of reconstructing them from scratch?
+A huge problem for the `Emperor's Hammer` over basically its entire life has been the loss of resources and knowledge to technical failures, schisms and personnel attrition. How many times did we lose the database/forums/email/domain/etc? Where could we be if we'd been able to add to existing foundations instead of reconstructing them from scratch?
 
 To counter this, I'm very keen to create backups of everything and ensure things are not so easily lost. To this end I've set up an [EH TAC](https://github.com/eh-tac) organisation on Github. The updated `tiepatch` is the first bit of saved code, with a few other projects to follow.
 
